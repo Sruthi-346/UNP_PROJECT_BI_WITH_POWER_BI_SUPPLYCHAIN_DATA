@@ -5,6 +5,6 @@ Key insights include:
 - Analyzing complex data calculations to inform key metrics, sales, profit, and delivery performances.
 - Uncovering valuable insights to drive informed business decisions and minimize losses
 - Optimizing supply chain operations by identifying delays and implementing efficiency enhancements.
-  
-       PBIX FILE: https://drive.google.com/file/d/1mrkfBVVUNZzKF3OwVN269O6QzHDTres4/view?usp=sharing
-       PDF FILE: https://drive.google.com/file/d/1QV1mZVxDOFhesM9oAWtGRb6vCA4Xowk4/view?usp=sharing
+    
+ PBIX FILE: https://drive.google.com/file/d/1mrkfBVVUNZzKF3OwVN269O6QzHDTres4/view?usp=sharing
+ PDF FILE: https://drive.google.com/file/d/1QV1mZVxDOFhesM9oAWtGRb6vCA4Xowk4/view?usp=sharing
